@@ -48,6 +48,12 @@ export const siteConfig = {
       skills: ["Luau", "Roblox", "Geometry", "Creating Documentation"],
     },
     {
+      name: "Roblox/athar-adv/SimpleAnimate",
+      description:
+        "A very simple Animate script replacement that allows for high control and flexibility over player animations.",
+      skills: ["Luau", "Roblox"]
+    },
+    {
       name: "Roblox/athar-adv/ReplicatedRegistry2",
       description:
         "A very simple registry module to make data sharing between server and clients easy.",
