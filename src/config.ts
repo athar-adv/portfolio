@@ -64,10 +64,10 @@ export const siteConfig = {
       skills: ["Luau", "Roblox", "Networking", "Creating Documentation"]
     },
     {
-      name: "Cargo/athar-adv/CheesyScript3",
+      name: "Cargo/athar-adv/lucy",
       description:
-        "A simple Rust-based language compiler & virtual machine i made for fun",
-      link: "https://github.com/athar-adv/CheesyScript3",
+        "A simple Rust-based language compiler & virtual machine i made for fun (name is spin on Luau + C",
+      link: "https://github.com/athar-adv/lucy",
       skills: ["Cargo", "Rust", "Language Design"]
     },
   ],
